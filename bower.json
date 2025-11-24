@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "d2l-colors": "^3.1.2",
-    "d2l-localize-behavior": "^1.0.0",
+    "d2l-localize-behavior": "https://github.com/gitgispartner/d2l-localize-behavior.git",
     "d2l-offscreen": "^3.0.3",
     "polymer": "1 - 2"
   },
